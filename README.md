@@ -1,9 +1,9 @@
 # Traffic-Congestion-Analysis
-## Overview
+ Overview
 
 This repository contains the code and analysis for a project focused on the analysis of traffic congestion. The project utilizes a dataset with information about traffic congestion at different junctions, including DateTime, Junction, Vehicles, and ID.
 
-## Dashboard
+Dashboard
 
 The project includes a dashboard that provides the following analyses:
 
@@ -13,7 +13,7 @@ The project includes a dashboard that provides the following analyses:
 2. Count of ID:
    - Displays the total count of unique IDs in the dataset.
 
-3. **Count of ID by Years of Junction:
+3. Count of ID by Years of Junction:
    - Breaks down the count of unique IDs by the years of junction.
 
 4. Sum of Junction by Vehicles ID:
